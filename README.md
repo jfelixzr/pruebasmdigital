@@ -11,7 +11,7 @@ Tema personalizado en WordPress utilizando una api de peliculas, las bibliotecas
     - Download [Swiper](https://swiperjs.com/get-started/)
     - Download [Slicknav](http://slicknav.com/download/)
     - Plugin Contact Form (descargable desde WordPress.org)
-    - API https://www.themoviedb.org/
+    - API  [API](https://www.themoviedb.org/)
 
 ## Crear una carpeta para el tema
 
@@ -70,10 +70,8 @@ get_footer();
 
 1. Cree una carpeta llamada `images` en el directorio de su tema y agregue todas las imágenes que desea utilizar en su tema.
 
-2. Abra el archivo `index.php` y comience a agregar contenido, como una sección de encabezado, un carrusel de imágenes, una sección de videos recomendados, un formulario de contacto, entre otros elementos.
-
 ## Prueba tu Tema Personalizado
 
 Finalmente, para visualizar cómo se ve el sitio después de crear tu tema, acceda a tu sitio de WordPress y seleccione tu nuevo tema personalizado. Si todo sale bien, verás tu tema en acción y podrás comenzar a personalizarlo aún más.
 
-¡Eso es todo! Con estos pasos, tendrás tu propio tema personalizado de WordPress enfocado en películas utilizando Swiper, Slicknav, Plugin Contact Form, JavaScript y CSS.
+
