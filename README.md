@@ -1,7 +1,7 @@
 # Cinemax
-# Creación de Tema Personalizado de WordPress para Películas
+# Tema Personalizado de WordPress para Películas
 
-Este es un tutorial para crear un tema personalizado en WordPress enfocado en películas utilizando una api de peliculas, las bibliotecas de Javascript y CSS, como Swiper, Slicknav, Plugin Contact Form, así como también algunas imágenes para hacerlo más visual.
+Tema personalizado en WordPress utilizando una api de peliculas, las bibliotecas de Javascript y CSS, como Swiper, Slicknav, Plugin Contact Form, así como también algunas imágenes para hacerlo más visual.
 
 ## Requisitos
 
